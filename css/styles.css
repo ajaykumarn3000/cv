@@ -1,6 +1,9 @@
 body {
   background-color: #EAF6F6;
 }
+img {
+  border-radius: 100%
+}
 hr {
   border-style: none;
   border-top-style: dotted;
